@@ -3,11 +3,11 @@
 
 💻 Currently DevOps Engineer
 
-⌨️ Coding in .NET, Node.js, Python.
+⌨️ Coding in Python, Go.
 
 ⚡️ Likes to work on AWS, Docker, K8s
 
-📍 Lives in Istanbul, Turkey
+📍 Lives in Graz, Austria
 
 
 
